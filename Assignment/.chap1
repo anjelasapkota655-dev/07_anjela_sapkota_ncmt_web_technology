@@ -1,1 +1,70 @@
+CHAPTER 1: AN OVERVIEW OF THE INTERNET AND THE WEB
+ Group A: Short Questions (2 Marks)
+1.	Define the term ”Protocol” in the context of the Internet.
+      A protocol is a standardized set of rules that governs how data is transmitted and received                  across networks. A web browser, such as Chrome or Firefox, is software that lets you open and view websites, while a search engine like Google or Bing helps you find those websites by searching with keywords. The World Wide Web (WWW) is a large system of linked documents and resources that can be accessed through the Internet using browsers.
+2.	What is the primary difference between a Web Browser and a Search Engine?
+A web Browser is a software application used to access and display web pages, while a search engine is an online tool that helps users find web pages by indexing and retrieving information based on keywords. In simple terms, the browser is used to view websites, whereas the search engine is used to locate them.
+
+3.	Define the World Wide Web (WWW).
+The World Wide Web (WWW) is a system of interlinked documents and resources, such as text, images, and videos, that can be accessed over the Internet using web browsers. It allows users to navigate through information using hyperlinks and is based on protocols like HTTP, making it one of the most widely used services of the Internet.
+
+4.	Distinguish between a static web page and a dynamic web page.
+Difference between a static web page and a dynamic web page are as follows::
+       
+Static Web Page	Dynamic Web Page
+Fixed and remains the same for all users.	Changes in real-time based on user input or server-side processing.
+Built mainly with HTML and CSS.	Uses server-side languages like PHP, ASP.NET, or client-side scripts like JavaScript.
+Non-interactive, only displays information.	Interactive, responds to user actions and queries.
+               
+
+
+
+Group B:
+ Long Questions (4 Marks)
+5.	Explain the client-server architecture of the web with a neat diagram.
+The client–server architecture is a model where the client (usually a web browser) sends a request to the server, and the server processes the request and sends back the required response. The client is responsible for the user interface, while the server stores data, runs applications, and delivers web content. Communication between them happens through protocols like HTTP/HTTPS.
+•	Client (Web Browser): Requests web pages or services.
+•	Server (Web Server): Processes requests, fetches data, and sends responses.
+•	Interaction: The client initiates communication, and the server responds accordingly.
+  Fig: client-server architecture
++-----------+          Request (HTTP)          +-----------+
+   |   Client  | -------------------------------> |   Server  |
+      | (Browser) |                                 | (Web App) |
+     +-----------+ <------------------------------- +-----------+
+                     Response (HTML/CSS/JS)
+
+
+
+6. Describe the functions of the following Internet services: Email, FTP, and VoIP
+     The functions of the following Internet services: Email, FTP, and VoIP are as follows:
+a.  Email (Electronic Mail):
+1.	Sends and receives digital messages instantly across the Internet.
+2.	Allows sharing of documents, images, and files as attachments.
+b. FTP (File Transfer Protocol):
+1.	Uploads and downloads files between computers over the Internet.
+2.	Helps manage and update website files on a server.
+c . VoIP (Voice over Internet Protocol):
+1.	Enables voice calls using the Internet instead of traditional phone lines.
+2.	Supports video calls and conferencing for real time communication.
+
+
+
+7. ”The Internet is a network of networks.” Elaborate on this statement explaining how packet switching works.
+The Internet is called a “network of networks” because it links together millions of smaller networks from homes, schools, businesses, and governments into one global system. This massive connection works through a process called packet switching, where any data you send such as a message, video, or file is broken into small units called packets. Each packet carries part of the data along with addressing information and travels independently across different routes in the network. When they reach the destination, the packets are reassembled in the correct order to form the original message. This method makes communication faster, more reliable, and efficient, even if some routes are busy or fail.
+
+Group C
+ Scenario-Based Questions (5 Marks) 
+8. A startup company wants to host a website that displays the same information to all     visitors and requires very low maintenance costs. However, they are being advised to use a dynamic website. As a consultant, would you agree? Justify your answer.
+If a startup wants to host a website that shows the same information to all visitors and keep costs low, then a static website is the right choice. Static sites are simple to design, cheaper to host, and require very little maintenance because the content does not change often. On the other hand, a dynamic website is more complex, needs server side processing, and involves higher costs for hosting and regular updates. Since the company’s goal is low maintenance and fixed information, I would not recommend a dynamic site; a static website will serve their purpose more efficiently and economically.
+
+9. A user types www.google.com into their browser, but the browser displays a ”Server Not Found” error, even though the internet connection is active. However, accessing the site via 142.250.190.46 works. Diagnose the problem and explain the underlying technology that failed.
+    If typing www.google.com shows “Server Not Found” but the site opens when you use the IP address 142.250.190.46, the problem is with the Domain Name System (DNS). The Internet actually works with numbers (IP addresses), but since those are hard to remember, DNS acts like a phonebook that translates easy names (like google.com) into those numbers. In this case, the Internet connection is fine, and Google’s server is reachable, but the DNS service failed to translate the domain name into its IP address. That’s why the browser couldn’t find the server using the name, but it worked when you typed the IP directly. So the underlying technology that failed here is DNS resolution.
+10. A multinational corporation wants to share sensitive inventory data with specific suppliers but does not want this information available to the general public. Explain which network type (Intranet, Extranet, or Internet) they should implement and why.
+   For this situation, the company should use an Extranet. An Intranet is only for internal employees, and the Internet is open to everyone, which would expose sensitive data. An Extranet, however, is a private network that extends part of the company’s internal system to trusted external partners, like specific suppliers. This way, the corporation can securely share inventory information with those suppliers while keeping it hidden from the general public. It gives controlled access, protects sensitive data, and ensures that only authorized users outside the company can see what they need.
+
+
+
+
+
+
 
