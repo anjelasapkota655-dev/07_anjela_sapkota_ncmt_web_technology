@@ -1,1 +1,29 @@
+Website development process
+Group A: Short Questions (2 Marks)
+1. Define the term ”Sitemap” in the planning phase.
+   A sitemap is a simple layout that shows all the pages of a website and their links. In the planning phase, it helps to organize the website structure 
+and makes navigation easy.
 
+2. What is the purpose of the ”Launch” phase in web development?
+   The lunch phase is when the website is made live for anyone to use.its main purpose is to check that everything works correctly and also users can easily
+access the website
+
+3.What is "Documentation" important in the development lifecycle?
+ The written record of how a website is made and works.Documentation is important because it helps developers,and users to undersatnd the system,fix problems 
+and also make changes easily in the future.
+
+4.Differentiate between Front-end and Back-end development.
+  the differtiate between Front-end and Back-end development are as follows:
+Front-end                                                                   	Back-end
+Deals with what users see on the website (design, layout, buttons).         	Deals with what happens behind the scenes (server, database, logic).
+Uses languages like HTML, CSS, JavaScript.	                                  Uses languages like PHP, Python, Java.
+Focuses on user experience and interaction.                                    Focuses on storing, retrieving, and managing data.
+
+Group B: Long Question (4 Marks)
+5."Planning is the most critical phase of web development." Discuss this statement by listing the key activities performed during the planning phase.
+  Planning is the important phase because it sets the direction for the whole website .if this phasw is done carefully, the websites will be easier to develop 
+and will meet the user's needs.
+In the planning phase, the first step is requirement analysis, where developers understand what the website should do and what users need. Next, a sitemap is
+created to list all the pages and show how they are connected. Then, a wireframe is designed, which is a rough layout of the website showing where content and 
+features will go. After that, the technology is selected, including the right tools, platforms, and programming languages. Finally, a timeline and resources are
+planned to manage the time, cost, and people needed for the project. Doing all these activities carefully ensures the website is built efficiently and works as expected.
