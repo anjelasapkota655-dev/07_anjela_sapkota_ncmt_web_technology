@@ -1,7 +1,7 @@
 CHAPTER 1: AN OVERVIEW OF THE INTERNET AND THE WEB
  Group A: Short Questions (2 Marks)
 1.	Define the term ”Protocol” in the context of the Internet.
-      A protocol is a standardized set of rules that governs how data is transmitted and received                  across networks. A web browser, such as Chrome or Firefox, is software that lets you open and view websites, while a search engine like Google or Bing helps you find those websites by searching with keywords. The World Wide Web (WWW) is a large system of linked documents and resources that can be accessed through the Internet using browsers.
+      A protocol is a standardized set of rules that governs how data is transmitted and received across networks. A web browser, such as Chrome or Firefox, is software that lets you open and view websites, while a search engine like Google or Bing helps you find those websites by searching with keywords. The World Wide Web (WWW) is a large system of linked documents and resources that can be accessed through the Internet using browsers.
 2.	What is the primary difference between a Web Browser and a Search Engine?
 A web Browser is a software application used to access and display web pages, while a search engine is an online tool that helps users find web pages by indexing and retrieving information based on keywords. In simple terms, the browser is used to view websites, whereas the search engine is used to locate them.
 
@@ -15,10 +15,7 @@ Static Web Page	Dynamic Web Page
 Fixed and remains the same for all users.	Changes in real-time based on user input or server-side processing.
 Built mainly with HTML and CSS.	Uses server-side languages like PHP, ASP.NET, or client-side scripts like JavaScript.
 Non-interactive, only displays information.	Interactive, responds to user actions and queries.
-               
-
-
-
+            
 Group B:
  Long Questions (4 Marks)
 5.	Explain the client-server architecture of the web with a neat diagram.
@@ -33,8 +30,6 @@ The client–server architecture is a model where the client (usually a web brow
      +-----------+ <------------------------------- +-----------+
                      Response (HTML/CSS/JS)
 
-
-
 6. Describe the functions of the following Internet services: Email, FTP, and VoIP
      The functions of the following Internet services: Email, FTP, and VoIP are as follows:
 a.  Email (Electronic Mail):
@@ -46,8 +41,6 @@ b. FTP (File Transfer Protocol):
 c . VoIP (Voice over Internet Protocol):
 1.	Enables voice calls using the Internet instead of traditional phone lines.
 2.	Supports video calls and conferencing for real time communication.
-
-
 
 7. ”The Internet is a network of networks.” Elaborate on this statement explaining how packet switching works.
 The Internet is called a “network of networks” because it links together millions of smaller networks from homes, schools, businesses, and governments into one global system. This massive connection works through a process called packet switching, where any data you send such as a message, video, or file is broken into small units called packets. Each packet carries part of the data along with addressing information and travels independently across different routes in the network. When they reach the destination, the packets are reassembled in the correct order to form the original message. This method makes communication faster, more reliable, and efficient, even if some routes are busy or fail.
