@@ -26,4 +26,42 @@ and will meet the user's needs.
 In the planning phase, the first step is requirement analysis, where developers understand what the website should do and what users need. Next, a sitemap is
 created to list all the pages and show how they are connected. Then, a wireframe is designed, which is a rough layout of the website showing where content and 
 features will go. After that, the technology is selected, including the right tools, platforms, and programming languages. Finally, a timeline and resources are
-planned to manage the time, cost, and people needed for the project. Doing all these activities carefully ensures the website is built efficiently and works as expected.
+planned to manage the time, cost, and people needed for the project. Doing all these activities carefully ensures the website is built efficiently and works as
+expected.
+
+6.Explain the iterative nature of the Maintenance phase.Why is a website never truly "finished"?
+   The maintenance  phase is iterative because it does not happen only ince it repeats again and again.After a website is launched,users start using it and giving
+feedback.Based on the feedback,small changes ,fixes, and improvements are made regulaely.Errors may appear over time so bugs need to be fixed. New content is also 
+added, and old information is updated to keep the website useful.
+A website is truly"finished "because  user needs,technology,and security requirements keep changing.To stay updated,safe,and user friendly ,continuous maintenance is
+always required.
+
+7. Describe the process of ”Information Gathering.” Why is understanding the target audi
+ence crucial during this step?
+Information gathering is the stage where we try to fully understand what the website is actually needed for. In this step, we collect details like the main purpose of
+the website, what kind of information it should show, and what features it should have. We also look at similar websites to get a better idea before starting the work.
+Understanding the target audience is very important because a website is made for people, not just for display. When we know who will use the website, we can decide the
+right design, language, and features. This helps make the website easy to use and more effective for users.
+
+Group C: Scenario-Based Questions (5 Marks)
+8. You are the project manager for a new e-commerce site. The client wants to skip the ”Testing” phase to save money and launch early. Write a persuasive argument explaining
+the potential risks (security, functionality, compatibility) of skipping this phase
+ Skipping the testing phase just to save money or launch early may look tempting, but it often leads to bigger problems later. If a website is not properly tested, users may
+face errors, slow loading, or broken features. This creates a bad first impression and makes users lose trust in the website.
+Testing helps find mistakes before real users see them. Fixing problems after the website is live usually costs more time and money than fixing them earlier. A well-tested
+website runs smoothly, feels professional, and keeps users satisfied. Therefore, testing is an important phase that should not be ignored for long-term success.
+
+9.. Adeveloper begins coding a website immediately after meeting the client, without creating a design prototype or sitemap. Midway through, the client rejects the layout. Analyze
+a design prototype or sitemap. Midway through, the client rejects the layout. Analyze
+what went wrong in the process and how it should have been handled.
+  The main problem here is that the developer rushed into coding without proper planning. Since no sitemap or design prototype was made, the client did not get a clear idea of how 
+the website would look. Because of this, both the developer and the client had different expectations, and the client rejected the layout in the middle of the work.
+This could have been avoided by first preparing a sitemap and a simple design prototype. These would help the client understand the structure and layout of the website before coding
+starts preventing confusion and saving time and effort.
+
+10. A university website was launched successfully, but after six months, students stopped visiting it because the exam schedules were outdated. Which phase of the development
+lifecycle was neglected? Explain the activities involved in this phase.
+   The phase that was neglected is the Maintenance phase. Even though the website was launched successfully, it was not properly updated afterward. Because exam schedules were outdated, 
+students lost interest and stopped visiting the website.
+The maintenance phase involves regularly updating content, fixing errors, and checking that all information is accurate. It also includes improving performance, updating security, and
+making small changes based on user needs. Regular maintenance keeps the website useful, reliable, and trusted by users.
