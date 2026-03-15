@@ -1,1 +1,66 @@
 
+CHAPTER 3:  WEBSITE STRUCTURE DESIGN
+ Group A: Short Questions (2 Marks) 
+1.	Define Information Architecture (IA).
+Information Architecture (IA) is the process of organizing and structuring information on a website or application so that users can easily find and understand the content. It helps make navigation clear and improves the overall user experience.
+
+2.	What is a ”Wireframe”?
+A wireframe is a simple layout or blueprint of a website or application page. It shows the basic structure of the page, such as where the text, images, buttons, and menus will be placed, without focusing on colors or design details.
+
+3.	Explain the concept of ”Cognitive Friction” in web design.
+Cognitive friction in web design means the mental effort a user has to make to understand or use a website. It happens when the design is confusing, the navigation is unclear, or information is hard to find. Because of this, users may feel frustrated and leave the website.
+
+4.	Why should URL slugs use hyphens instead of underscores?
+URL slugs should use hyphens (-) instead of underscores (_) because hyphens clearly separate words and make the URL easier for both users and search engines to read. Underscores are not always recognized as word separators, which can make the URL harder to understand and affect SEO.
+     Group B: Long Questions (4 Marks) 
+5.	Compare and contrast Hierarchical (Tree) structure and Linear (Sequential) structure. 
+Give an example of when to use each.
+A Hierarchical (Tree) structure organizes information in levels, starting from a main page and branching into subpages or categories. It helps users easily navigate large websites with many sections. For example, an e-commerce website where users go from Home → Categories → Product page.
+A Linear (Sequential) structure arranges information in a step-by-step order where users move from one page to the next in a fixed sequence. It is useful when a process must be followed in order. For example, an online registration form where users complete Step 1 → Step 2 → Step 3.
+In short, hierarchical structure is best for websites with many categories, while linear structure is best for process-based tasks that require steps in order.
+     
+
+6.	Explain the ”Three-Click Rule” and its significance in User Experience (UX) design.
+The Three-Click Rule states that a user should be able to find the information they need on a website within three clicks from the homepage. The idea behind this rule is that if users take too many clicks to reach their desired page, they may become confused or frustrated and leave the website.
+This rule is important in User Experience (UX) design because it encourages designers to create simple navigation, clear menus, and well-organized content. When information is easy to access, users can move through the website quickly and have a better experience. However, the main goal is not exactly three clicks, but making the website easy and efficient to use.
+
+7.	”Plan before you do.” Explain how tools like Card Sorting and Flowcharts help
+ in  planning a website’s structure.
+“Plan before you do” means that before developing a website, designers should first plan how the content and pages will be organized. Good planning helps create a clear structure and improves user experience.
+Card Sorting is a technique where different pieces of website content are written on cards and grouped into categories. This helps designers understand how users naturally organize information and decide the best menu and navigation structure.
+Flowcharts are diagrams that show the path users follow while navigating a website. They help visualize the relationship between pages and show how users move from one page to another.
+Using card sorting and flowcharts helps designers plan a website clearly, organize information properly, and create a website that is easier for users to navigate
+     Group C: Scenario-Based Questions (5 Marks) 
+8.	You are designing a website for a University. It has hundreds of pages (Admissions,
+Departments, Alumni, News). Which structural model would you choose? Draw a rough diagram and justify your choice.
+For a university website, I would choose the Hierarchical (Tree) structure. This structure is best because a university website contains many pages such as Admissions, Departments, Alumni, and News. With hierarchical structure, information can be organized from main categories to subcategories, which makes it easier for users to find what they need.
+For example, the Home page will be at the top. From the home page, users can go to main sections like Admissions, Departments, Alumni, and News. Inside these sections, there can be more specific pages. For instance, the Admissions page can have Undergraduate, Postgraduate, and Scholarship pages, and Departments can have Science, Management, and IT pages.
+
+
+
+Rough diagram:
+
+            Home
+          /  |   |   \
+ Admissions  Departments  Alumni  News
+   /   \        /   \
+UG   PG     Science  IT
+This structure is suitable because it organizes large information clearly, improves navigation, and helps users find information quickly. That is why hierarchical structure is the best choice for a university website.
+9.	A user visits a website but leaves within 10 seconds because they cannot find the navigation menu, which is hidden behind a small icon on a desktop screen. Analyze this design failure using the ”KISS” (Keep It Simple) principle.
+The KISS (Keep It Simple) principle means that a website design should be simple, clear, and easy for users to understand and navigate.
+In this case, the navigation menu is hidden behind a small icon on a desktop screen. Desktop users usually expect the menu to be clearly visible. Because it is hidden, the user cannot easily find the navigation options and becomes confused.
+Due to this complexity, the user leaves the website within 10 seconds. This shows that the design does not follow the KISS principle.
+To fix this problem, the website should display a simple and visible navigation bar with clear menu options so users can easily find information
+10.	An e-commerce website has a URL structure like www.shop.com/prod?id=55&cat=9.
+ Explain why this is bad for both users and Search Engines (SEO), and propose a better structure using Page Slugs.
+11.	The URL www.shop.com/prod?id=55&cat=9.
+ is not good for users and search engines. For users, this type of URL is confusing because it contains numbers and symbols instead of meaningful words. Users cannot understand what the page is about just by looking at the link.
+For Search Engine Optimization (SEO), this structure is also poor because search engines prefer URLs that contain clear keywords related to the page content. URLs with random parameters make it harder for search engines to understand and rank the page.
+A better approach is to use Page Slugs, which create simple and descriptive URLs.
+Example of better URL structure:
+•	www.shop.com/products/shoes/nike-running-shoes
+•	www.shop.com/electronics/smartphone
+These URLs are clear, readable, and contain keywords, which helps both users and search engines understand the page content easily.
+
+
+
